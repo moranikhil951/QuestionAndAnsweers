@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.listed-items {
+  margin-top: 10px;
+  border: 1px solid #d7dae6;
+  border-radius: 8px;
+  padding: 7px;
+}
+
+.horizantal-line {
+  border: 1px solid #d7dae6;
+}
+.faqs-container {
+}
+
+.button {
+  border: none;
+  background-color: white;
+}
